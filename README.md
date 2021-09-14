@@ -60,7 +60,7 @@ Complete
 ## Conclusion
 The results of the data exploration and machine learning model indicated that Starbucks data scientists have a challenging job! The answer to all 4 questions posed in the general information section were no.
 
-To read in more detail please view the associated medium blog: 
+To read in more detail please view the associated medium blog: https://mlevanduski3.medium.com/starbucks-data-science-capstone-project-e655042eb69f
 
 
 ## Room for Improvement
